@@ -1,0 +1,4 @@
+Thalles;27
+Ariane;28
+Magnus;65
+Flavia;50
